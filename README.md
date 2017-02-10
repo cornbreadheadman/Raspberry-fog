@@ -1,5 +1,5 @@
 # Raspberry-fog
-Martin® Magnum Pro 2000 Fog Machine controlled by Raspberry Pi
+<strong>Martin® Magnum Pro 2000 Fog Machine controlled by Raspberry Pi</strong>
 
 There once was a broken fog machine. This fog machine was originally designed to provide a constant stream of fog forever. Or until the resivour of fog juice was depleted. It could no longer do the job. The heating circuitry could still heat the unit up to "Ready to Fog" conditions but could no longer engage the pump to provide juice through-put. This is where the idea of the Raspberry Pi came into play.
 
